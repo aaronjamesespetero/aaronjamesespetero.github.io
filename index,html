@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<h1 align="center"><u>Resume</u></h1>
+
+<img src="../v.html/Aaron.jpg" width="200px" height="200px" align="right">
+
+<h2><u>Name</u> :- Aaron James Espetero.</h2>
+<h2><u>Date of Birth</u> :- April 21 2001</h2>
+<h2><u>Adress</u> :- General Nakar Quezon</h2>
+<h2><u>Carrer Objective</u>:- Network Administrator</h2>
+
+<h2><u>Hobbies</u> :- <dir>
+                      <li>Watching Movies</li>
+                      <li>Playing Online Games</li>
+                      <li>Play BasketBall</li></h2>
+                      </dir>
+                      
+<table border="1px" cellspacing="1px"cellpadding="6px">
+  <tr><td>Name</td>
+      <td>Name of University</td>
+      <td>Name of Course</td>
+      <td>Name of Subject</td>
+      <td>Total Percentage obtained(%)</td>
+      </tr>
+      
+      <tr>
+      <td>Aaron James Espetero</td>
+      <td>Laguna State Polytechnic University</td>
+      <td>BSIT</td>
+      <td>ITEL 203</td>
+      <td><u>90%</u></td>
+      </tr>
+      </table>
+      
+      </body>
+      </html>
